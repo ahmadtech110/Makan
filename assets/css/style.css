@@ -1,6 +1,7 @@
 :root {
     --green-color: #08bd87fd;
 }
+
 .h-color{
     color: var(--green-color);
 }
@@ -12,4 +13,15 @@
 .head-img img{
     height: 50px;
     width: 50px;
+}
+.btn-color{
+    background-color: var(--green-color);
+    color: white;
+    border: none;
+}
+.active{
+    color: var(--green-color) !important;
+}
+.nav-item .nav-link:hover{
+    color: var(--green-color) !important;
 }
