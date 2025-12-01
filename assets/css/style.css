@@ -1,10 +1,6 @@
 :root {
     --green-color: #08bd87fd;
 }
-
-.h-color{
-    color: var(--green-color);
-}
 .bg-success{
     background-color: var(--green-color) !important;
 }
@@ -28,7 +24,7 @@
 .nav-item .nav-link:hover{
     color: var(--green-color) !important;
 }
-.t-color{
+.text-color{
     color: var(--green-color);
 }
 .mt-7{
@@ -47,3 +43,16 @@
 .mt-8{
     margin-top: 90px
 }
+.icos-border{
+    border: 1px dashed var(--green-color);
+    border-radius: 100%;
+    padding: 8px;
+}
+.icos-img img{
+    width: 80px;
+    height: 80px;
+}
+.side-border{
+    border: 1px dashed var(--green-color);
+}
+
