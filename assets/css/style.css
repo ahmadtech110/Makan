@@ -1,5 +1,6 @@
 :root {
-    --green-color: #08bd87fd;
+    --green-color: #00B98E;
+    --bg-light:#effdf9 !important;
 }
 .bg-success{
     background-color: var(--green-color) !important;
@@ -41,7 +42,7 @@
     background-color: black;
 }
 .mt-8{
-    margin-top: 90px
+    margin-top: 95px
 }
 .icos-border{
     border: 1px dashed var(--green-color);
