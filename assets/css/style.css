@@ -1,6 +1,6 @@
 :root {
     --green-color: #00B98E;
-    --bg-light:#effdf9 !important;
+    --bg-light:#c0f3f1 !important;
 }
 .bg-success{
     background-color: var(--green-color) !important;
@@ -37,9 +37,6 @@
 }
 .fs-8{
     font-size: 50px;
-}
-.search-bg{
-    background-color: black;
 }
 .mt-8{
     margin-top: 95px
