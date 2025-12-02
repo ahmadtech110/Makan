@@ -1,6 +1,7 @@
 :root {
     --green-color: #00B98E;
     --bg-light: #c0f3f1 !important;
+    --back-color: rgb(255, 255, 255);
 }
 
 .bg-success {
@@ -132,6 +133,11 @@
     border-radius: 100%;
       margin-top: -20px;
       margin-left: 8px;
+}
+
+.img-edit{
+    width: 45px;
+    height: 45px;
 }
 
 
