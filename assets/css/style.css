@@ -110,15 +110,28 @@
 .right-border {
     border-right: 1px dashed var(--green-color);
 }
+
 .bottom-position {
     bottom: -21px;
 }
+
 #property-list .btn-success {
     background-color: var(--green-color) !important;
     border: none !important;
 }
+
 #property-list .btn-success:hover {
-      background-color: green !important;
-      color: white !important;
+    background-color: green !important;
+    color: white !important;
 
 }
+
+.ico-edit div {
+    font-size: 23px;
+    color: var(--green-color);
+    border-radius: 100%;
+      margin-top: -20px;
+      margin-left: 8px;
+}
+
+
