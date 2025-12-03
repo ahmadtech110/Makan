@@ -140,6 +140,14 @@
     height: 45px;
 }
 .bg-blue{
-    background-color: rgba(62, 62, 124, 0.554);
+    background-color: #0E2E50 !important;
+}
+.ico-border i{
+    width: 35px;
+    height: 35px;
+    border: 1px solid var(--bg-light);
+    border-radius: 100%;
+    text-align: center;
+    line-height: 35px;
 }
 
