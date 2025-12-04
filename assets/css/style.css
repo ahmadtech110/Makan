@@ -150,4 +150,11 @@
     text-align: center;
     line-height: 35px;
 }
+.img-border{
+    border: 6px solid white;
+    padding: 0px;
+}
+.img-padding{
+    margin: 1px !important;
+}
 
