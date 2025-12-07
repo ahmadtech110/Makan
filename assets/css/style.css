@@ -131,18 +131,20 @@
     font-size: 23px;
     color: var(--green-color);
     border-radius: 100%;
-      margin-top: -20px;
-      margin-left: 8px;
+    margin-top: -20px;
+    margin-left: 8px;
 }
 
-.img-edit{
+.img-edit {
     width: 45px;
     height: 45px;
 }
-.bg-blue{
+
+.bg-blue {
     background-color: #0E2E50 !important;
 }
-.ico-border i{
+
+.ico-border i {
     width: 35px;
     height: 35px;
     border: 1px solid var(--bg-light);
@@ -150,18 +152,24 @@
     text-align: center;
     line-height: 35px;
 }
-.img-border{
+
+.img-border {
     border: 6px solid white;
     padding: 0px;
 }
-.img-padding{
+
+.img-padding {
     margin: 1px !important;
 }
-.text-border{
+
+.text-border {
     border-right: 1px solid rgba(255, 255, 255, 0.269);
     padding-right: 15px;
     color: var(--green-color) !important;
     line-height: 10px;
-    
+
 }
 
+.btn-hover:hover  {
+    color: blue;
+}
