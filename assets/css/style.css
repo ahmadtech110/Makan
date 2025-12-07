@@ -29,7 +29,7 @@
     color: var(--green-color) !important;
 }
 
-.nav-item .nav-link:hover {
+.nav-link:hover {
     color: var(--green-color) !important;
 }
 
