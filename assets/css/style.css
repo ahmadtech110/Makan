@@ -36,6 +36,13 @@
 .nav-link:hover {
     color: var(--green-color) !important;
 }
+header{
+    position: fixed;
+    top: 30px;
+    z-index: 9;
+    width: 98%;
+    left: 1%;
+}
 
 .text-color {
     color: var(--green-color);
@@ -46,9 +53,13 @@
 }
 
 .head-img {
-    height: 100vh;
-    width: 101.9%;
+    /* min-height: 100vh; */
+    width: 100%;
+    object-fit: cover;
     
+}
+#hero{
+    min-height: 100vh;
 }
 
 .fs-8 {
